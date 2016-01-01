@@ -1,0 +1,16 @@
+{
+  "title": "Better download all attachments for Gmail™",
+  "name": "gmail-dl-all-attachments-for-firefox",
+  "version": "0.0.1",
+  "description": "This extension permits you to download all files attached, in a mail, separately on Gmail™",
+  "main": "main.js",
+  "author": "medric & mlazzje",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

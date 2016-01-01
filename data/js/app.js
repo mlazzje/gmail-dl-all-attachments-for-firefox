@@ -1,3 +1,7 @@
+var _ = require("sdk/l10n").get;
+
+console.log("ok");
+
 Promise.all([
   InboxSDK.load('1.0', 'sdk_mlazzje-dlgmail_43a7d41655')
 ])
@@ -21,8 +25,8 @@ Promise.all([
 
   var addCustomAttachmentsToolbarButton = function(messageView) {
     var options = {
-      tooltip: chrome.i18n.getMessage('tooltip'),
-      iconUrl: chrome.runtime.getURL('img/save.png'),
+      tooltip: _("tooltip"),
+      iconUrl: './img/save.png',
       onClick: handleAttachmentsButtonClick
     };
 
