@@ -4,12 +4,12 @@ Better download all for Gmail™
 Purpose
 -------
 
-This is a google chrome extension. It permits you to download all files attached in a mail without downloading the archive created automatically by Gmail. My save button download each files separately.
+This is a mozilla firefox extension. It permits you to download all files attached in a mail without downloading the archive created automatically by Gmail. My save button download each files separately.
 
 How to install?
 ---------------
 
-Add to chrome the extension available here: https://chrome.google.com/webstore/detail/better-download-all-attac/eehnjaacbphnfgipdcfeaepafihfhnkm 
+Add to firefox : Coming soon
 
 Usage
 -----
@@ -24,5 +24,3 @@ About
 Developed by [medric](https://github.com/medric) && [mlazzje](https://github.com/mlazzje)
 
 Original idea of [Stéphane](https://github.com/St3ph-fr)
-
-
